@@ -1,0 +1,13 @@
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\bin\Debug\netcoreapp3.1\Digital.exe
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\bin\Debug\netcoreapp3.1\Digital.deps.json
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\bin\Debug\netcoreapp3.1\Digital.runtimeconfig.json
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\bin\Debug\netcoreapp3.1\Digital.runtimeconfig.dev.json
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\bin\Debug\netcoreapp3.1\Digital.dll
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\bin\Debug\netcoreapp3.1\Digital.pdb
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.csprojAssemblyReference.cache
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.AssemblyInfoInputs.cache
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.AssemblyInfo.cs
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.dll
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.pdb
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\Digital\obj\Debug\netcoreapp3.1\Digital.genruntimeconfig.cache
