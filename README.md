@@ -1,6 +1,6 @@
 # GFT Start #4 .NET
 <p align="center">
-  <img alt="Letmeask" src="assets/" width="150px">
+  <img alt="Letmeask" src="assets/logo.png" width="150px">
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/license/mashape/apistatus.svg"/>
@@ -9,7 +9,7 @@
 </p>
 
 ### GFT Start #4 .NET
-<img src="">
+<img src="assets/banner.png">
 
 ## 📚 Módulos
 
