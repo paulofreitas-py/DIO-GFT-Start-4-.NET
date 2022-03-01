@@ -4,9 +4,15 @@ namespace EstruturaDoPrograma
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        static void Main()
+        
+        { 
+            s.Empilha(1);
+            s.Empilha(10);
+            s.Empilha(100);
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }
