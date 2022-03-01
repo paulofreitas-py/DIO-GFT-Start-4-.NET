@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/github/license/mashape/apistatus.svg"/>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/paulofreitas-py/DIO-GFT-Start-4-.NET">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/paulofreitas-py/DIO-GFT-Start-4-.NET">
+<a href="https://wakatime.com/badge/github/paulofreitas-py/DIO-GFT-Start-4-.NET"><img src="https://wakatime.com/badge/github/paulofreitas-py/DIO-GFT-Start-4-.NET.svg" alt="wakatime"></a>
 </p>
+
 
 ### GFT Start #4 .NET
 <p align="center">
