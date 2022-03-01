@@ -1,0 +1,13 @@
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.exe
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.deps.json
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Users\Paulo\OneDrive - Faculdade dos Guararapes\Documents\GitHub\DIO-GFT-Start-4-.NET\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.genruntimeconfig.cache
